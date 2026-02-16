@@ -27,32 +27,7 @@ The **Education Recommendation System** is an intelligent machine learning appli
 
 ---
 
-## 📸 Project Screenshots
 
-### 🏠 Home Interface
-<img src="images/home.png" width="800"/>
-
----
-
-### 📊 Subject Distribution Visualization
-<img src="images/distribution.png" width="800"/>
-
----
-
-### 🎯 Recommendation Output
-<img src="images/recommendation.png" width="800"/>
-
----
-
-### 📈 Top Recommended Subjects Chart
-<img src="images/top_subjects.png" width="800"/>
-
----
-
-### 🧠 Feature Importance Analysis
-<img src="images/feature_importance.png" width="800"/>
-
----
 
 ## 🧠 How It Works
 
@@ -61,23 +36,4 @@ The **Education Recommendation System** is an intelligent machine learning appli
 3. Model predicts the most suitable subjects
 4. Results are displayed with confidence scores
 5. Feature importance graph explains decision factors
-
----
-
-## ▶️ How to Run Locally
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/yourrepo.git
-
-# Move into project folder
-cd yourrepo
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run application
-streamlit run app.py
-
-
 
